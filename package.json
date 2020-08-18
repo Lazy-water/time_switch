@@ -6,8 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "time"
+  ],
+  "homepage": "https://github.com/Lazy-water/time_switch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lazy-water/time_switch"
+  },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {}
 }
